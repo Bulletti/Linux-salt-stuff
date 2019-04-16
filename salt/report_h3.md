@@ -22,4 +22,6 @@ There is no comment, but there are the words "Initial commit". I can extrapolate
 
 "git blame" appears to be a tool which can be used to extract data from the repository and its workings. My skill level is too low to understand how to use it.
 
-d) 
+d) I created a directory called "penis" and used the git reset --hard command to reset it to its last committed state, I presume.
+
+e) I am submitting my previously created Chromium module for this part.
